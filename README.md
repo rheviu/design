@@ -4,6 +4,8 @@ Library of graphical elements of Rheviu brand.
 ## Logo
 * [Base logo with background (.png)](./logo/LogoBaseBackground1080.png)
 * [Inverted logo with background (.png)](./logo/LogoInvertedBackground1080.png)
+* [Fav Icon 32px (.png)](./logo/favIcon32.png)
+* [Fav Icon 16px (.png)](./logo/favIcon16.png)
 * [Base logo with background (.svg)](./logo/LogoBaseBackground1080.svg)
 * [Inverted logo with background (.svg)](./logo/LogoInvertedBackground1080.svg)
 
